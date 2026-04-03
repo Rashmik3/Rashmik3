@@ -5,24 +5,24 @@
 </div>
 
 ## 🖐️ About Me
-- My full name is **[Kumari Rashmi]** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
-- My major is **[DevOps Engineer]**
-- Primary Focus: **[Enhance my Cloud and AI skills]**
-- I'm interested in **[Learning AI cuurently]**
+- My full name is **Kumari Rashmi** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
+- My major is **DevOps Engineer**
+- Primary Focus: **Enhance my Cloud and AI skills**
+- I'm interested in **Learning AI currently**
 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/kumari-rashmi-30b69b163/])
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[rashmiecede@gmail.com])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumari-rashmi-30b69b163/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashmiecede@gmail.com)
 
 ## 🛠️ Tech Stack & Tools
 
-![GCP](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Helm](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![openshift](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Shell Scripting](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=blue)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1419?style=for-the-badge&logo=helm&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ##
 <picture>
